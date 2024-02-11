@@ -1,0 +1,2 @@
+﻿ALTER TABLE Reviews
+ADD ReviewDate DATETIME;
